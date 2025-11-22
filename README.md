@@ -52,8 +52,7 @@ This project shows how a data scientist:
 
 ### 📌 Sample Visualization
 
-![Sales Heatmap][(https://raw.githubusercontent.com/your-username/your-repo-name/main/output_heatmap.png)](https://github.com/amanstha9845-cpu/Superstore-sales-analysis/blob/main/Screenshot%202025-11-23%20001535.png?raw=true
-)
+![Sales Heatmap] https://github.com/amanstha9845-cpu/Superstore-sales-analysis/blob/main/Screenshot%202025-11-23%20001535.png?raw=true
 
 ## 📂 Project Files
 | File | Description |
