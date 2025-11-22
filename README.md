@@ -50,9 +50,10 @@ This project shows how a data scientist:
 - Extracts business insights  
 - Uses ML to support decision-making  
 
-📌 *All done using only beginner-friendly tools learned in 30 days!*
+### 📌 Sample Visualization
 
----
+![Sales Heatmap][(https://raw.githubusercontent.com/your-username/your-repo-name/main/output_heatmap.png)](https://github.com/amanstha9845-cpu/Superstore-sales-analysis/blob/main/Screenshot%202025-11-23%20001535.png?raw=true
+)
 
 ## 📂 Project Files
 | File | Description |
