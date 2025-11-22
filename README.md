@@ -60,7 +60,7 @@ This project shows how a data scientist:
 | `Superstore_sales_analysis.ipynb` | Complete code + outputs |
 | Dataset | Linked from Kaggle |
 
-🔗 Dataset link: *(Original Kaggle Superstore dataset)*
+🔗 Dataset link: [*(Original Kaggle Superstore dataset)*](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
@@ -70,5 +70,3 @@ Our project helps them **sell smart—not just sell more** 💰📉
 
 ---
 
-👨‍💻 **Created during 30 Days Learning Utsav Challenge**  
-🚀 *A step into real-world Data Science!*
