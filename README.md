@@ -64,9 +64,9 @@ This project shows how a data scientist:
 
 ---
 
-### ✨ Bonus: Why this project matters?
+### Why this project matters?
 Businesses lose money due to **wrong discount strategies**.  
-Our project helps them **sell smart—not just sell more** 💰📉
+Our project helps them **sell smart, not just sell more** 💰📉
 
 ---
 
